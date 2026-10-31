@@ -1,0 +1,381 @@
+==============================
+SLIDE 1
+==============================
+Shape 0: name="Text 0", type=TEXT_BOX (17), left=365760, top=201168, width=2011680, height=320040
+  TextFrame:
+HCL JIGSAW
+Shape 1: name="Text 1", type=TEXT_BOX (17), left=365760, top=685800, width=8229600, height=274320
+  TextFrame:
+ROUND 2 · PROTOTYPE PRESENTATION
+Shape 2: name="Text 2", type=TEXT_BOX (17), left=365760, top=960120, width=8412480, height=640080
+  TextFrame:
+Student Health Passport
+Shape 3: name="Text 3", type=TEXT_BOX (17), left=365760, top=1600200, width=8412480, height=292608
+  TextFrame:
+Grade 6 · Medical Innovation & Smart Healthcare
+Shape 4: name="Shape 4", type=AUTO_SHAPE (1), left=365760, top=2148840, width=4114800, height=1600200
+  TextFrame:
+
+Shape 5: name="Text 5", type=TEXT_BOX (17), left=594360, top=2286000, width=3657600, height=274320
+  TextFrame:
+CONTEXT
+Shape 6: name="Text 6", type=TEXT_BOX (17), left=594360, top=2606040, width=3657600, height=1051560
+  TextFrame:
+Most schools have no health record for each student. In an emergency, nobody knows a child's blood group, allergies or emergency contacts.
+Shape 7: name="Shape 7", type=AUTO_SHAPE (1), left=4663440, top=2148840, width=4114800, height=1600200
+  TextFrame:
+
+Shape 8: name="Text 8", type=TEXT_BOX (17), left=4892040, top=2286000, width=3657600, height=274320
+  TextFrame:
+YOUR CHALLENGE
+Shape 9: name="Text 9", type=TEXT_BOX (17), left=4892040, top=2606040, width=3657600, height=1051560
+  TextFrame:
+Show us your Student Health Passport app: a one-page digital card with 5 key health details, updated once a year by the school nurse.
+Shape 10: name="Text 10", type=TEXT_BOX (17), left=365760, top=3977640, width=8412480, height=292608
+  TextFrame:
+6 questions · 3 screens of your app + a working link · Answer every question in your own words
+Shape 11: name="Text 11", type=TEXT_BOX (17), left=365760, top=4828032, width=8412480, height=201168
+  TextFrame:
+HCL JIGSAW | Edition 7 | Grade 6 · Medical Innovation & Smart Healthcare | Round 2 · Prototype Presentation
+==============================
+SLIDE 2
+==============================
+Shape 0: name="Text 0", type=TEXT_BOX (17), left=365760, top=201168, width=2011680, height=320040
+  TextFrame:
+HCL JIGSAW
+Shape 1: name="Text 1", type=TEXT_BOX (17), left=4754880, top=201168, width=4023360, height=320040
+  TextFrame:
+Student Health Passport · Round 2
+Shape 2: name="Text 2", type=TEXT_BOX (17), left=365760, top=621792, width=8412480, height=256032
+  TextFrame:
+BEFORE YOU START · TEAM & APP DETAILS
+Shape 3: name="Text 3", type=TEXT_BOX (17), left=365760, top=877824, width=8412480, height=457200
+  TextFrame:
+Tell us who you are and where we can see your app
+Shape 4: name="Text 4", type=TEXT_BOX (17), left=365760, top=1335024, width=8412480, height=329184
+  TextFrame:
+Share a link that works for anyone with the link. It must show only MADE-UP demo students — never real student health details.
+Shape 5: name="Text 5", type=TEXT_BOX (17), left=365760, top=4828032, width=7680960, height=201168
+  TextFrame:
+HCL JIGSAW | Edition 7 | Grade 6 · Medical Innovation & Smart Healthcare | Round 2 · Prototype Presentation
+Shape 6: name="Text 6", type=TEXT_BOX (17), left=8321040, top=4828032, width=457200, height=201168
+  TextFrame:
+2
+Shape 7: name="Text 7", type=TEXT_BOX (17), left=365760, top=1783080, width=4114800, height=237744
+  TextFrame:
+Team name
+Shape 8: name="Text 8", type=TEXT_BOX (17), left=365760, top=2039112, width=4114800, height=411480
+  TextFrame:
+Type your answer here…
+Shape 9: name="Text 9", type=TEXT_BOX (17), left=4663440, top=1783080, width=4114800, height=237744
+  TextFrame:
+School & city
+Shape 10: name="Text 10", type=TEXT_BOX (17), left=4663440, top=2039112, width=4114800, height=411480
+  TextFrame:
+Type your answer here…
+Shape 11: name="Text 11", type=TEXT_BOX (17), left=365760, top=2560320, width=4114800, height=237744
+  TextFrame:
+Team members (name – role)
+Shape 12: name="Text 12", type=TEXT_BOX (17), left=365760, top=2816352, width=4114800, height=1051560
+  TextFrame:
+Type your answer here…
+Shape 13: name="Text 15", type=TEXT_BOX (17), left=4663440, top=2880205, width=4114800, height=237744
+  TextFrame:
+Link to our app / prototype
+Shape 14: name="Text 16", type=TEXT_BOX (17), left=4663440, top=3136237, width=4114800, height=411480
+  TextFrame:
+Type your answer here…
+Shape 15: name="Text 17", type=TEXT_BOX (17), left=365760, top=3977640, width=1828800, height=237744
+  TextFrame:
+Tool used to build it
+Shape 16: name="Text 18", type=TEXT_BOX (17), left=2103120, top=3931920, width=2377440, height=384048
+  TextFrame:
+Type your answer here…
+Shape 17: name="Text 19", type=TEXT_BOX (17), left=4709160, top=3637762, width=4114800, height=256032
+  TextFrame:
+☐  Our link shows only made-up demo data
+==============================
+SLIDE 3
+==============================
+Shape 0: name="Text 0", type=TEXT_BOX (17), left=365760, top=201168, width=2011680, height=320040
+  TextFrame:
+HCL JIGSAW
+Shape 1: name="Text 1", type=TEXT_BOX (17), left=4754880, top=201168, width=4023360, height=320040
+  TextFrame:
+Student Health Passport · Round 2
+Shape 2: name="Text 2", type=TEXT_BOX (17), left=365760, top=621792, width=8412480, height=256032
+  TextFrame:
+STEP 1 · THE PROBLEM
+Shape 3: name="Text 3", type=TEXT_BOX (17), left=365760, top=877824, width=8412480, height=457200
+  TextFrame:
+Q1. What problem does your app solve, and who will use it?
+Shape 4: name="Text 4", type=TEXT_BOX (17), left=365760, top=1335024, width=8412480, height=329184
+  TextFrame:
+What goes wrong today when a student falls sick at school, what information is missing, and who will use your app (nurse, teacher, parent).
+Shape 5: name="Text 5", type=TEXT_BOX (17), left=365760, top=4828032, width=7680960, height=201168
+  TextFrame:
+HCL JIGSAW | Edition 7 | Grade 6 · Medical Innovation & Smart Healthcare | Round 2 · Prototype Presentation
+Shape 6: name="Text 6", type=TEXT_BOX (17), left=8321040, top=4828032, width=457200, height=201168
+  TextFrame:
+3
+==============================
+SLIDE 4
+==============================
+Shape 0: name="Text 0", type=TEXT_BOX (17), left=365760, top=201168, width=2011680, height=320040
+  TextFrame:
+HCL JIGSAW
+Shape 1: name="Text 1", type=TEXT_BOX (17), left=4754880, top=201168, width=4023360, height=320040
+  TextFrame:
+Student Health Passport · Round 2
+Shape 2: name="Text 2", type=TEXT_BOX (17), left=365760, top=621792, width=8412480, height=256032
+  TextFrame:
+STEP 2 · SHOW YOUR APP
+Shape 3: name="Text 3", type=TEXT_BOX (17), left=365760, top=877824, width=8412480, height=457200
+  TextFrame:
+Q2. Add 3 screens of your app and say what each screen does
+Shape 4: name="Text 4", type=TEXT_BOX (17), left=365760, top=1335024, width=8412480, height=329184
+  TextFrame:
+Use wireframes or screenshots showing made-up demo students only. Your app link goes on Slide 2.
+Shape 5: name="Text 5", type=TEXT_BOX (17), left=365760, top=4828032, width=7680960, height=201168
+  TextFrame:
+HCL JIGSAW | Edition 7 | Grade 6 · Medical Innovation & Smart Healthcare | Round 2 · Prototype Presentation
+Shape 6: name="Text 6", type=TEXT_BOX (17), left=8321040, top=4828032, width=457200, height=201168
+  TextFrame:
+4
+Shape 7: name="Text 7", type=TEXT_BOX (17), left=365760, top=1755648, width=1005840, height=274320
+  TextFrame:
+SCREEN 1
+Shape 8: name="Text 8", type=TEXT_BOX (17), left=1901952, top=2103120, width=1143000, height=2596896
+  TextFrame:
+What does this screen do, and who uses it?
+Shape 9: name="Text 9", type=TEXT_BOX (17), left=3200400, top=1755648, width=1005840, height=274320
+  TextFrame:
+SCREEN 2
+Shape 10: name="Text 10", type=TEXT_BOX (17), left=4736592, top=2103120, width=1143000, height=2596896
+  TextFrame:
+What does this screen do, and who uses it?
+Shape 11: name="Text 11", type=TEXT_BOX (17), left=6035040, top=1755648, width=1005840, height=274320
+  TextFrame:
+SCREEN 3
+Shape 12: name="Text 12", type=TEXT_BOX (17), left=7571232, top=2103120, width=1143000, height=2596896
+  TextFrame:
+What does this screen do, and who uses it?
+==============================
+SLIDE 5
+==============================
+Shape 0: name="Text 0", type=TEXT_BOX (17), left=365760, top=201168, width=2011680, height=320040
+  TextFrame:
+HCL JIGSAW
+Shape 1: name="Text 1", type=TEXT_BOX (17), left=4754880, top=201168, width=4023360, height=320040
+  TextFrame:
+Student Health Passport · Round 2
+Shape 2: name="Text 2", type=TEXT_BOX (17), left=365760, top=621792, width=8412480, height=256032
+  TextFrame:
+STEP 3 · HOW IT WORKS
+Shape 3: name="Text 3", type=TEXT_BOX (17), left=365760, top=877824, width=8412480, height=457200
+  TextFrame:
+Q3. Explain how your app works, step by step
+Shape 4: name="Text 4", type=TEXT_BOX (17), left=365760, top=1335024, width=8412480, height=329184
+  TextFrame:
+STORE: what is on each card?  UPDATE: how does the nurse update it every year?  USE: how is a card found fast in an emergency?
+Shape 5: name="Text 5", type=TEXT_BOX (17), left=365760, top=4828032, width=7680960, height=201168
+  TextFrame:
+HCL JIGSAW | Edition 7 | Grade 6 · Medical Innovation & Smart Healthcare | Round 2 · Prototype Presentation
+Shape 6: name="Text 6", type=TEXT_BOX (17), left=8321040, top=4828032, width=457200, height=201168
+  TextFrame:
+5
+Shape 7: name="Text 7", type=TEXT_BOX (17), left=365760, top=1783080, width=2679192, height=274320
+  TextFrame:
+1 · STORE
+Shape 8: name="Text 8", type=TEXT_BOX (17), left=365760, top=2148840, width=2679192, height=2560320
+  TextFrame:
+Type your answer here…
+Shape 9: name="Text 9", type=TEXT_BOX (17), left=3017520, top=1764792, width=182880, height=292608
+  TextFrame:
+➜
+Shape 10: name="Text 10", type=TEXT_BOX (17), left=3200400, top=1783080, width=2679192, height=274320
+  TextFrame:
+2 · UPDATE
+Shape 11: name="Text 11", type=TEXT_BOX (17), left=3200400, top=2148840, width=2679192, height=2560320
+  TextFrame:
+Type your answer here…
+Shape 12: name="Text 12", type=TEXT_BOX (17), left=5852160, top=1764792, width=182880, height=292608
+  TextFrame:
+➜
+Shape 13: name="Text 13", type=TEXT_BOX (17), left=6035040, top=1783080, width=2679192, height=274320
+  TextFrame:
+3 · USE
+Shape 14: name="Text 14", type=TEXT_BOX (17), left=6035040, top=2148840, width=2679192, height=2560320
+  TextFrame:
+Type your answer here…
+==============================
+SLIDE 6
+==============================
+Shape 0: name="Text 0", type=TEXT_BOX (17), left=365760, top=201168, width=2011680, height=320040
+  TextFrame:
+HCL JIGSAW
+Shape 1: name="Text 1", type=TEXT_BOX (17), left=4754880, top=201168, width=4023360, height=320040
+  TextFrame:
+Student Health Passport · Round 2
+Shape 2: name="Text 2", type=TEXT_BOX (17), left=365760, top=621792, width=8412480, height=256032
+  TextFrame:
+STEP 4 · WHAT IT STORES & PRIVACY
+Shape 3: name="Text 3", type=TEXT_BOX (17), left=365760, top=877824, width=8412480, height=457200
+  TextFrame:
+Q4. Which 5 health details does your passport store, and who can see them?
+Shape 4: name="Text 4", type=TEXT_BOX (17), left=365760, top=1335024, width=8412480, height=329184
+  TextFrame:
+One row per detail. Then write your privacy and consent rules in the last row.
+Shape 5: name="Text 5", type=TEXT_BOX (17), left=365760, top=4828032, width=7680960, height=201168
+  TextFrame:
+HCL JIGSAW | Edition 7 | Grade 6 · Medical Innovation & Smart Healthcare | Round 2 · Prototype Presentation
+Shape 6: name="Text 6", type=TEXT_BOX (17), left=8321040, top=4828032, width=457200, height=201168
+  TextFrame:
+6
+Shape 7: name="Table 0", type=TABLE (19), left=365760, top=1783080, width=8412480, height=2706624
+  Table (7 rows x 4 cols):
+    Row 0: ['Health detail', 'Why it matters in an emergency', 'How it is entered', 'Who can see / edit']
+    Row 1: ['', '', '', '']
+    Row 2: ['', '', '', '']
+    Row 3: ['', '', '', '']
+    Row 4: ['', '', '', '']
+    Row 5: ['', '', '', '']
+    Row 6: ['Privacy & consent rules', '', '', '']
+==============================
+SLIDE 7
+==============================
+Shape 0: name="Text 0", type=TEXT_BOX (17), left=365760, top=201168, width=2011680, height=320040
+  TextFrame:
+HCL JIGSAW
+Shape 1: name="Text 1", type=TEXT_BOX (17), left=4754880, top=201168, width=4023360, height=320040
+  TextFrame:
+Student Health Passport · Round 2
+Shape 2: name="Text 2", type=TEXT_BOX (17), left=365760, top=621792, width=8412480, height=256032
+  TextFrame:
+STEP 5 · TEST & IMPROVE
+Shape 3: name="Text 3", type=TEXT_BOX (17), left=365760, top=877824, width=8412480, height=457200
+  TextFrame:
+Q5. What happened in your pilot with 10 students? What did you change?
+Shape 4: name="Text 4", type=TEXT_BOX (17), left=365760, top=1335024, width=8412480, height=329184
+  TextFrame:
+Only with parent consent: how many cards were made, how long it took, how fast a card could be found, and what went wrong.
+Shape 5: name="Text 5", type=TEXT_BOX (17), left=365760, top=4828032, width=7680960, height=201168
+  TextFrame:
+HCL JIGSAW | Edition 7 | Grade 6 · Medical Innovation & Smart Healthcare | Round 2 · Prototype Presentation
+Shape 6: name="Text 6", type=TEXT_BOX (17), left=8321040, top=4828032, width=457200, height=201168
+  TextFrame:
+7
+Shape 7: name="Text 7", type=TEXT_BOX (17), left=365760, top=1783080, width=4114800, height=256032
+  TextFrame:
+Our pilot & what happened
+Shape 8: name="Text 8", type=TEXT_BOX (17), left=4663440, top=1783080, width=4114800, height=256032
+  TextFrame:
+What we changed / will improve
+Shape 9: name="Text 9", type=TEXT_BOX (17), left=365760, top=2075688, width=4114800, height=2651760
+  TextFrame:
+Type your answer here…
+Shape 10: name="Text 10", type=TEXT_BOX (17), left=4663440, top=2075688, width=4114800, height=2651760
+  TextFrame:
+Type your answer here…
+==============================
+SLIDE 8
+==============================
+Shape 0: name="Text 0", type=TEXT_BOX (17), left=365760, top=201168, width=2011680, height=320040
+  TextFrame:
+HCL JIGSAW
+Shape 1: name="Text 1", type=TEXT_BOX (17), left=4754880, top=201168, width=4023360, height=320040
+  TextFrame:
+Student Health Passport · Round 2
+Shape 2: name="Text 2", type=TEXT_BOX (17), left=365760, top=621792, width=8412480, height=256032
+  TextFrame:
+STEP 6 · WHY IT'S WORTH IT
+Shape 3: name="Text 3", type=TEXT_BOX (17), left=365760, top=877824, width=8412480, height=457200
+  TextFrame:
+Q6. Why should your school use it, and how will it stay updated?
+Shape 4: name="Text 4", type=TEXT_BOX (17), left=365760, top=1335024, width=8412480, height=329184
+  TextFrame:
+Compare how long it takes to find a student's health details today vs with your app, explain the yearly update plan, then write to your principal.
+Shape 5: name="Text 5", type=TEXT_BOX (17), left=365760, top=4828032, width=7680960, height=201168
+  TextFrame:
+HCL JIGSAW | Edition 7 | Grade 6 · Medical Innovation & Smart Healthcare | Round 2 · Prototype Presentation
+Shape 6: name="Text 6", type=TEXT_BOX (17), left=8321040, top=4828032, width=457200, height=201168
+  TextFrame:
+8
+Shape 7: name="Text 7", type=TEXT_BOX (17), left=365760, top=1783080, width=3017520, height=256032
+  TextFrame:
+Time to find details: today vs our app
+Shape 8: name="Text 8", type=TEXT_BOX (17), left=365760, top=2057400, width=3017520, height=1097280
+  TextFrame:
+Type your answer here…
+Shape 9: name="Text 9", type=TEXT_BOX (17), left=365760, top=3264408, width=3017520, height=256032
+  TextFrame:
+Yearly update plan & cost
+Shape 10: name="Text 10", type=TEXT_BOX (17), left=365760, top=3538728, width=3017520, height=1097280
+  TextFrame:
+Type your answer here…
+Shape 11: name="Text 11", type=TEXT_BOX (17), left=3657600, top=1783080, width=5120640, height=256032
+  TextFrame:
+Our 3-line message to the principal
+Shape 12: name="Text 12", type=TEXT_BOX (17), left=3657600, top=2057400, width=5120640, height=2670048
+  TextFrame:
+Type your answer here…
+==============================
+SLIDE 9
+==============================
+Shape 0: name="Text 0", type=TEXT_BOX (17), left=365760, top=201168, width=2011680, height=320040
+  TextFrame:
+HCL JIGSAW
+Shape 1: name="Text 1", type=TEXT_BOX (17), left=4754880, top=201168, width=4023360, height=320040
+  TextFrame:
+Round 2 · Team Understanding Check
+Shape 2: name="Text 2", type=TEXT_BOX (17), left=365760, top=621792, width=8412480, height=256032
+  TextFrame:
+FINAL STEP · INDIVIDUAL UNDERSTANDING CHECK
+Shape 3: name="Text 3", type=TEXT_BOX (17), left=365760, top=877824, width=8412480, height=457200
+  TextFrame:
+Q7. Each member: explain our project in your own words
+Shape 4: name="Text 4", type=TEXT_BOX (17), left=365760, top=1335024, width=8412480, height=329184
+  TextFrame:
+Write 3–4 sentences: (1) what problem we solve, (2) how our prototype solves it, (3) one thing YOU did or learned. Answer on your own – don't copy your teammates.
+Shape 5: name="Text 5", type=TEXT_BOX (17), left=365760, top=1783080, width=1051560, height=274320
+  TextFrame:
+MEMBER 1
+Shape 6: name="Text 6", type=TEXT_BOX (17), left=1508760, top=1783080, width=2971800, height=274320
+  TextFrame:
+Your name
+Shape 7: name="Text 7", type=TEXT_BOX (17), left=365760, top=2130552, width=4114800, height=1005840
+  TextFrame:
+Type your answer here…
+Shape 8: name="Text 8", type=TEXT_BOX (17), left=4663440, top=1783080, width=1051560, height=274320
+  TextFrame:
+MEMBER 2
+Shape 9: name="Text 9", type=TEXT_BOX (17), left=5806440, top=1783080, width=2971800, height=274320
+  TextFrame:
+Your name
+Shape 10: name="Text 10", type=TEXT_BOX (17), left=4663440, top=2130552, width=4114800, height=1005840
+  TextFrame:
+Type your answer here…
+Shape 11: name="Text 11", type=TEXT_BOX (17), left=365760, top=3246120, width=1051560, height=274320
+  TextFrame:
+MEMBER 3
+Shape 12: name="Text 12", type=TEXT_BOX (17), left=1508760, top=3246120, width=2971800, height=274320
+  TextFrame:
+Your name
+Shape 13: name="Text 13", type=TEXT_BOX (17), left=365760, top=3593592, width=4114800, height=1005840
+  TextFrame:
+Type your answer here…
+Shape 14: name="Text 14", type=TEXT_BOX (17), left=4663440, top=3246120, width=1051560, height=274320
+  TextFrame:
+MEMBER 4
+Shape 15: name="Text 15", type=TEXT_BOX (17), left=5806440, top=3246120, width=2971800, height=274320
+  TextFrame:
+Your name
+Shape 16: name="Text 16", type=TEXT_BOX (17), left=4663440, top=3593592, width=4114800, height=1005840
+  TextFrame:
+Type your answer here…
+Shape 17: name="Text 17", type=TEXT_BOX (17), left=365760, top=4828032, width=7680960, height=201168
+  TextFrame:
+HCL JIGSAW | Edition 7 | Round 2 · Individual Understanding Check
+Shape 18: name="Text 18", type=TEXT_BOX (17), left=8321040, top=4828032, width=457200, height=201168
+  TextFrame:
+9

@@ -1,0 +1,81 @@
+HCL JIGSAW · EDITION 7
+Round 2: Show Your App
+Grade 6 · Medical Innovation & Smart Healthcare · Student Health Passport — Student Instructions
+Part A — Build your app
+Your prototype is a Student Health Passport app: a one-page digital card for each student with the 5 most important health details, which the school nurse updates once a year. It must be something we can open with a link.
+Privacy and consent — the most important rules
+Get WRITTEN consent from a parent or guardian before you enter any real student's health details, even in your pilot.
+The link and the screens you share with us must show ONLY made-up demo students (e.g. 'Aarav S. – Demo'). Never share real names, phone numbers or health details.
+Keep real pilot data private: only your team and the school nurse should see it. Delete it after the pilot if the school does not want to keep it.
+Do not ask for anything you don't need. The 5 key details are enough.
+Part B — Add 3 screens and your link
+Use screenshots of your app, or clear wireframes (hand-drawn wireframes are fine if you photograph them neatly).
+Put your app link on Slide 2. Check that it opens for anyone with the link, from a different phone.
+Use real screens of YOUR app only — no pictures from the internet.
+Part C — Fill in the PPT template
+Rules for the PPT
+Do not delete slides. Answer every question.
+Write in your own words. Simple English is perfectly fine — ideas matter more than grammar.
+Part D — Record your pitch video
+Length: 2 to 3 minutes (not more than 3).  Audience: imagine you are presenting to your school principal and school nurse.
+Every team member must speak in the video.
+Use only demo students on screen — never show a real student's health card in the video.
+Record with the phone held sideways (landscape) and kept steady. Choose a quiet place and speak loudly and slowly.
+Get permission from your parents or guardians before recording. Use first names only.
+Upload both the PPT and the Video to the HCL Jigsaw Portal using your login credentials
+One Team Member can upload it and others can approve.
+Part E — Submit
+Final checklist
+All 6 questions answered
+3 app screens added, with what each screen does
+App link on Slide 2 opens for anyone and shows only demo students
+All 5 health details and your privacy and consent rules on Slide 6
+Pilot numbers from 10 consented students on Slide 7
+Video is 3 minutes or less, every member speaks, and it is uploaded on the portal
+How your Submissions will be scored
+Each question is scored from 1 to 5, for a total of 30 marks.
+
+--- TABLE ---
+In Round 2 your team submits TWO things: 1. App Presentation (PPT) — fill in the 8-slide template you have been given, with 3 screens of your app and a link to it. 2. Pitch Video — a 2 to 3-minute video of your team presenting your app to your school principal.
+
+--- TABLE ---
+You can use | Examples of free tools
+A working app | Google Forms + Google Sheets, Glide (builds an app from a Google Sheet), MIT App Inventor
+A clickable prototype | Canva, Figma, Google Slides or PowerPoint with buttons that link the screens together
+
+--- TABLE ---
+You do not need to spend any money. Free tools are enough. You are judged on what your app does, how you explain it and how carefully you protect privacy — not on how fancy it looks.
+
+--- TABLE ---
+Screen | What it should show
+Screen 1 | How the nurse or a teacher finds a student (e.g. a list or search screen)
+Screen 2 | The one-page health card with the 5 key details
+Screen 3 | How the nurse updates a card every year (e.g. an update form)
+
+--- TABLE ---
+Slide | What to do
+1 · Title | Do not change anything.
+2 · Team & app | Team name, school and city, members with their roles, pitch video link, link to your app and the tool you used. Tick the box only if your link shows made-up demo data.
+3 · Q1 Problem | What happens today when a student falls sick at school, which health details are missing, and who will use your app (nurse, teachers, parents).
+4 · Q2 Screens | Insert ▸ Pictures and place one screen under each label. Write in the box next to it what that screen does and who uses it.
+5 · Q3 How it works | STORE: what each card holds. UPDATE: how the nurse updates it every year and who can edit. USE: how a teacher finds a card quickly in an emergency.
+6 · Q4 Details & privacy | One row for each of the 5 health details: why it matters in an emergency, how it is entered (dropdown, tick-box, text) and who can see or edit it. Then write your privacy and consent rules.
+7 · Q5 Pilot | Test with 10 real students whose parents have given written consent. Write how many cards you made, how long it took, how fast a card could be found, and what went wrong. Then write what you changed.
+8 · Q6 Value & plan | How long it takes today to find a student's health details vs with your app. How the nurse will update all cards every year, and what it costs. Then a 3-line message to your principal.
+
+--- TABLE ---
+Time | Section | What to say / show
+0:00–0:20 | Hello & hook | Team name, and one fact about what happens today when a student falls sick.
+0:20–0:50 | The problem | What information is missing and why that is dangerous.
+0:50–1:50 | Your app | Show the app on screen with a DEMO student: find the student, open the card, show the nurse's update form.
+1:50–2:30 | Why it's worth it | What your pilot showed — time to find a card, problems fixed — use your numbers.
+2:30–3:00 | Close | Ask the principal to let the nurse use it, and thank them.
+
+--- TABLE ---
+Q | Criterion | A top score looks like…
+1 | Problem & user | What happens today, missing details, nurse/teacher/parent roles
+2 | Screens & link | 3 clear screens with captions, a working link, demo data only
+3 | How it works | Clear store, yearly nurse update and fast emergency use
+4 | Details & privacy | All 5 details with reasons and access, clear privacy and consent rules
+5 | Pilot & improvement | 10 consented students, numbers, and changes you made
+6 | Value & plan | Time today vs with the app, yearly update plan, convincing message

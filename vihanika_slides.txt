@@ -1,0 +1,36 @@
+ppt/slides/slide1.xml:
+THE FUTURE OF SMART HEALTHCARE ROBOTICS + AUTOMATION Themes 3 & 4 Medical Innovation & Smart Healthcare Robotics, Automation & Smart Manufacturing CLASS 6  - G WORKING MODEL BY: VIHANIKA AWASTHI
+
+ppt/slides/slide10.xml:
+LIVE DEMONSTRATION Make the judges SEE the technology working. 1 1 PATIENT / OBJECT Sensor detects 2 2 DECISION Controller checks 3 3 ROBOT Motor moves 4 4 FACTORY MODE Robot repeats task 5 5 ALERT Buzzer / display SFX cues: heartbeat → robot beep → factory beep → success chime
+
+ppt/slides/slide11.xml:
+THE IMPACT Why this innovation deserves to exist SAFER Earlier alerts FASTER Less repetitive work SMARTER Data-driven decisions SCALABLE Useful in hospitals + factories Big idea: technology should give people more time to focus on people.
+
+ppt/slides/slide12.xml:
+OUR VISION SMARTER. SAFER. MORE HUMAN. AI, robotics and automation should help people — not replace the human touch. MEDICAL INNOVATION ROBOTICS SMART MANUFACTURING THANK YOU
+
+ppt/slides/slide2.xml:
+WHY THESE TWO THEMES? Healthcare + robotics can work together to solve real problems. 1 CARE Support patients and caregivers 2 SPEED Automate repetitive tasks 3 SAFETY Detect problems and trigger alerts 4 PRECISION Robots can perform repeatable actions
+
+ppt/slides/slide3.xml:
+MEDICAL INNOVATION Robots can assist with monitoring, movement and routine support. MONITOR Collect selected sensor readings. ASSIST Move or deliver small items. ALERT Trigger a warning when a threshold is reached. CONNECT Share information with a caregiver.
+
+ppt/slides/slide4.xml:
+SMART HEALTHCARE WORKFLOW Sense → Think → Act → Alert 1 SENSE Temperature / pulse* > 2 THINK Controller checks data > 3 ACT Robot responds > 4 ALERT Caregiver is notified
+
+ppt/slides/slide5.xml:
+ROBOTICS IN HEALTHCARE Real-world inspiration for our school model DELIVERY ROBOTS Carry medicines or supplies. SURGICAL ROBOTS Assist specialists with precision. SERVICE ROBOTS Support routine hospital tasks. The goal is assistance under human supervision — not replacing doctors or nurses.
+
+ppt/slides/slide6.xml:
+THEME 4 ROBOTICS, AUTOMATION & SMART MANUFACTURING Machines that sense, decide and repeat with precision. INDUSTRY 4.0
+
+ppt/slides/slide7.xml:
+WHAT IS SMART MANUFACTURING? Machines + sensors + software + people SENSORS Collect machine data ROBOTS Perform repeatable actions AI / SOFTWARE Analyse information HUMANS Supervise and make decisions
+
+ppt/slides/slide8.xml:
+AUTOMATED PRODUCTION LINE A simple Industry 4.0 flow DESIGN Digital plan → BUILD Robotic assembly → CHECK Sensors inspect → PACK Automated handling → SHIP Smart logistics
+
+ppt/slides/slide9.xml:
+OUR WORKING MODEL A practical prototype combining both themes CONTROLLER Arduino / microcontroller SENSORS Ultrasonic + optional temperature/pulse MOVEMENT Servo motors / wheels DISPLAY LCD / LEDs ALERT Buzzer + emergency button BODY Cardboard / foam-board robot The prototype demonstrates the idea — it is not a medical diagnostic device.
+
